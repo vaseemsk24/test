@@ -4,5 +4,5 @@ if hungry=="yes":
 else:
     print("do homework")
     print("vasi")
-print("vasi")
-print("vasi")
+print("169/86")
+print("water")
