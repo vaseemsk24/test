@@ -4,3 +4,4 @@ if hungry=="yes":
 else:
     print("do homework")
     print("vasi")
+print("169/86")
